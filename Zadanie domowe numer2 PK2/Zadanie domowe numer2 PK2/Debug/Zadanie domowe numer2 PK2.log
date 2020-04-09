@@ -1,0 +1,24 @@
+﻿  funkcje.c
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(100,11): warning C4477: „printf”: ciąg formatu „%f” wymaga argumentu typu „double”, ale argument 3 ze zmienną liczbą argumentów ma typ „float *”
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(122,43): warning C4047: "funkcja": "student **" różni się w poziomach operatorów pośrednich od "student1 *"
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(122,43): warning C4024: "szukanie_studenta": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(178,18): warning C4047: "funkcja": "student **" różni się w poziomach operatorów pośrednich od "student ***"
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(178,18): warning C4024: "wczytaj": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(180,33): warning C4047: "funkcja": "student **" różni się w poziomach operatorów pośrednich od "student ***"
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(180,33): warning C4024: "create_student_database": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(184,37): warning C4047: "funkcja": "student **" różni się w poziomach operatorów pośrednich od "student ***"
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(184,37): warning C4024: "menu": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(200,35): warning C4047: "funkcja": "student **" różni się w poziomach operatorów pośrednich od "student ***"
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(200,35): warning C4024: "wczytaj_istniejaca_baze": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(210,39): warning C4047: "funkcja": "student **" różni się w poziomach operatorów pośrednich od "student ***"
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(210,39): warning C4024: "menu": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(224,28): warning C4047: "funkcja": "student *" różni się w poziomach operatorów pośrednich od "student **"
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(224,28): warning C4024: "wyswietlanie_listy": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(242,18): warning C4047: "funkcja": "student **" różni się w poziomach operatorów pośrednich od "student ***"
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(242,18): warning C4024: "wczytaj": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(265,22): warning C4047: "funkcja": "student **" różni się w poziomach operatorów pośrednich od "student ***"
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(265,22): warning C4024: "modyfikacja": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(287,28): warning C4047: "funkcja": "student **" różni się w poziomach operatorów pośrednich od "student ***"
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(287,28): warning C4024: "szukanie_studenta": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Zadanie domowe numer2 PK2\funkcje.c(317): warning C4715: "menu”: niewszystkie ścieżki kodu zwracają wartość
+  Zadanie domowe numer2 PK2.vcxproj -> C:\Users\marek\source\repos\Zadanie domowe numer2 PK2\Debug\Zadanie domowe numer2 PK2.exe

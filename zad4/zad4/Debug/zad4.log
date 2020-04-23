@@ -1,0 +1,3 @@
+﻿  zad4.c
+M:\Podstawy Programowania\Zadania\zad4\zad4\zad4.c(70,31): warning C4090: "funkcja": różniące się kwalifikatory "const"
+  zad4.vcxproj -> M:\Podstawy Programowania\Zadania\zad4\Debug\zad4.exe

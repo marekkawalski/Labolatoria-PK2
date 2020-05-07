@@ -1,0 +1,4 @@
+﻿  Zad automat.c
+M:\Podstawy Programowania\Zad automat\Zad automat\Zad automat.c(64,10): warning C4101: "nie": lokalna zmienna, do której nie istnieje odwołanie
+M:\Podstawy Programowania\Zad automat\Zad automat\Zad automat.c(120): warning C4715: "menu”: niewszystkie ścieżki kodu zwracają wartość
+  Zad automat.vcxproj -> M:\Podstawy Programowania\Zad automat\Debug\Zad automat.exe

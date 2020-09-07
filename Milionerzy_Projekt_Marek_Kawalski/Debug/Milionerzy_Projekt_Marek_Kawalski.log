@@ -1,0 +1,13 @@
+﻿  funkcje.c
+M:\PK\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(128,12): warning C4098: "give_us_random_question": funkcja "void" zwraca wartość
+M:\PK\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(239,27): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+M:\PK\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(253,12): warning C4098: "give_us_random_question": funkcja "void" zwraca wartość
+M:\PK\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(122,7): warning C4101: "solution": lokalna zmienna, do której nie istnieje odwołanie
+M:\PK\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(368,12): warning C4098: "sub_menu": funkcja "void" zwraca wartość
+M:\PK\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(416,33): warning C4047: "funkcja": "const char *" różni się w poziomach operatorów pośrednich od "char **"
+M:\PK\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(416,33): warning C4024: "fopen": różne typy dla formalnego i rzeczywistego parametru 1
+M:\PK\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(420,11): warning C4098: "write_to_file": funkcja "void" zwraca wartość
+M:\PK\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(607,22): warning C4133: "=": niezgodne typy - od "leaderboard *" do "quest *"
+M:\PK\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(609,13): warning C4133: "=": niezgodne typy - od "quest *" do "leaderboard *"
+M:\PK\Projekt PK2 2 sem\Milionerzy\Milionerzy_Projekt_Marek_Kawalski\funkcje.c(100): warning C4715: "search_question”: niewszystkie ścieżki kodu zwracają wartość
+  Milionerzy_Projekt_Marek_Kawalski.vcxproj -> M:\PK\Projekt PK2 2 sem\Milionerzy\Debug\Milionerzy_Projekt_Marek_Kawalski.exe
